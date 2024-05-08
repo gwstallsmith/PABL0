@@ -1,4 +1,4 @@
-# Discord Chat Analysis Bot
+# PABL0 - Discord Chat Analysis Bot
 
 This repository contains code for a Discord chat analysis bot developed for Kent Hack Enough 2024 hackathon. The bot utilizes web scraping and machine learning sentiment analysis techniques to analyze users' messages on Discord servers.
 
